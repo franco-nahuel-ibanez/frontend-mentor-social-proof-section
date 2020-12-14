@@ -22,9 +22,9 @@
 body{
 	font-family: 'Spartan', sans-serif;
 	font-size: 15px;
-	margin-top: 100px;
-	margin-left: 150px;
-	margin-right: 150px;
+	margin-top: 70px;
+	margin-left: 120px;
+	margin-right: 120px;
 	background-image: url(../images/bg-pattern-top-desktop.svg), url(../images/bg-pattern-bottom-desktop.svg);
 	background-repeat: no-repeat, no-repeat;
 	background-position: left -4vw top, right 0vw bottom -5vh;
